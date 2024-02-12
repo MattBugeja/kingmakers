@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kingmakers)/static/css/main.100f737e.css",
-    "main.js": "/kingmakers)/static/js/main.5834c636.js",
-    "index.html": "/kingmakers)/index.html",
-    "main.100f737e.css.map": "/kingmakers)/static/css/main.100f737e.css.map",
-    "main.5834c636.js.map": "/kingmakers)/static/js/main.5834c636.js.map"
+    "main.css": "/kingmakers/static/css/main.100f737e.css",
+    "main.js": "/kingmakers/static/js/main.5834c636.js",
+    "index.html": "/kingmakers/index.html",
+    "main.100f737e.css.map": "/kingmakers/static/css/main.100f737e.css.map",
+    "main.5834c636.js.map": "/kingmakers/static/js/main.5834c636.js.map"
   },
   "entrypoints": [
     "static/css/main.100f737e.css",
